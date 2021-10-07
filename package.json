@@ -22,7 +22,8 @@
     "url": "https://github.com/tannerlsmith/wool-mill/issues"
   },
   "homepage": "https://github.com/tannerlsmith/wool-mill#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "concurrently": "^6.3.0"
   }
 }
